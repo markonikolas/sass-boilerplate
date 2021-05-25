@@ -1,0 +1,22 @@
+{
+  "name": "sass-boilerplate",
+  "version": "1.0.0",
+  "description": "This is a sample project using the [7-1 architecture pattern](http://sass-guidelin.es/#architecture) and sticking to [Sass Guidelines](http://sass-guidelin.es) writing conventions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markonikolas/sass-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markonikolas/sass-boilerplate/issues"
+  },
+  "homepage": "https://github.com/markonikolas/sass-boilerplate#readme",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
+}
