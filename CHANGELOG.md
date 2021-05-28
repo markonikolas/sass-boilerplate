@@ -1,5 +1,9 @@
 # This file contains project history
 
+## [Unreleased]
+### Changed
+- Update normalize import
+
 ## [2021-25-05]
 ### Changed
 - Update .gitignore
